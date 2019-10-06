@@ -1,4 +1,4 @@
-package com.example.roomservices;
+package com.example.roomservices.entity;
 
 import lombok.Data;
 

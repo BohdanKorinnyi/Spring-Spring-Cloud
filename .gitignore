@@ -25,3 +25,4 @@ hs_err_pid*
 /.idea/
 /room-services/.idea/
 /room-services/.mvn/
+/room-services/target/
